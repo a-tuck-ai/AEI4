@@ -1,0 +1,55 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "question": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "contexts": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "answer": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "ground_truth": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "faithfulness": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "answer_relevancy": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "context_recall": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "context_precision": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "answer_correctness": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "input_text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "target_text": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
